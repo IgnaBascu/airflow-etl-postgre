@@ -21,3 +21,16 @@ Este proyecto implementa un pipeline ETL usando [Apache Airflow](https://airflow
 5. Ejecuta Airflow (`airflow standalone` o `airflow scheduler` + `airflow webserver`)
 6. Configura la conexión a PostgreSQL en la UI de Airflow.
 
+## :books: Screenshots
+- Datos ingresados a la tabla sales_db
+![Postgre](https://github.com/user-attachments/assets/fc6d4989-0258-4716-8159-9578f75f023a)
+
+- Airflow ejecutado correctamente
+
+![Airflow1](https://github.com/user-attachments/assets/fbe1c9b6-e739-4e2d-9442-8b47cfbfe8a5)
+
+![Airflow2](https://github.com/user-attachments/assets/98334c91-2c40-4096-ac38-87ee35823428)
+
+
+
+
